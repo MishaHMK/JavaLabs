@@ -1,0 +1,2 @@
+січ. 20, 2021 11:41:38 ПП com.Actions.Menu presentOperation
+INFO: Put the address of the file
